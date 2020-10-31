@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="588e0a99-e0ae-4eea-aebf-d64a226f855a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.2/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1imzIWLDaLb4H5KOTZXTA6Rvokb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build SampleMovie" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="SampleMovie" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="SampleMovie" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build SampleMovie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="588e0a99-e0ae-4eea-aebf-d64a226f855a" name="Default Changelist" comment="" />
+      <created>1602527475550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602527475550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1332" y="452" key="#New_Docker_Connection" timestamp="1602744754983">
+      <screen x="54" y="23" width="2506" height="1417" />
+    </state>
+    <state x="1332" y="452" key="#New_Docker_Connection/2560.0.2560.1440/54.23.2506.1417@54.23.2506.1417" timestamp="1602744754983" />
+    <state x="718" y="567" key="#SQL_Dialects" timestamp="1602618024328">
+      <screen x="54" y="23" width="2506" height="1417" />
+    </state>
+    <state x="718" y="567" key="#SQL_Dialects/2560.0.2560.1440/54.23.2506.1417@54.23.2506.1417" timestamp="1602618024328" />
+    <state x="54" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602620328014">
+      <screen x="54" y="23" width="2506" height="1417" />
+    </state>
+    <state x="54" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.2560.1440/54.23.2506.1417@54.23.2506.1417" timestamp="1602620328014" />
+    <state x="2560" y="276" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.2560.1440/56.23.2504.1417@2560.0.2560.1440" timestamp="1602528562434" />
+    <state width="1262" height="367" key="GridCell.Tab.0.bottom" timestamp="1603618055575">
+      <screen x="56" y="23" width="2504" height="1417" />
+    </state>
+    <state width="2188" height="325" key="GridCell.Tab.0.bottom/2560.0.2560.1440/54.23.2506.1417@2560.0.2560.1440" timestamp="1602617904237" />
+    <state width="1263" height="271" key="GridCell.Tab.0.bottom/2560.0.2560.1440/54.23.2506.1417@54.23.2506.1417" timestamp="1602865005107" />
+    <state width="2188" height="325" key="GridCell.Tab.0.bottom/2560.0.2560.1440/56.23.2504.1417@2560.0.2560.1440" timestamp="1602570597462" />
+    <state width="1262" height="367" key="GridCell.Tab.0.bottom/2560.0.2560.1440/56.23.2504.1417@56.23.2504.1417" timestamp="1603618055575" />
+    <state width="1263" height="686" key="GridCell.Tab.0.bottom/2560.0.2560.1440/62.23.2498.1417@62.23.2498.1417" timestamp="1603177555873" />
+    <state width="1262" height="367" key="GridCell.Tab.0.center" timestamp="1603618055574">
+      <screen x="56" y="23" width="2504" height="1417" />
+    </state>
+    <state width="2188" height="325" key="GridCell.Tab.0.center/2560.0.2560.1440/54.23.2506.1417@2560.0.2560.1440" timestamp="1602617904237" />
+    <state width="1263" height="271" key="GridCell.Tab.0.center/2560.0.2560.1440/54.23.2506.1417@54.23.2506.1417" timestamp="1602865005107" />
+    <state width="2188" height="325" key="GridCell.Tab.0.center/2560.0.2560.1440/56.23.2504.1417@2560.0.2560.1440" timestamp="1602570597462" />
+    <state width="1262" height="367" key="GridCell.Tab.0.center/2560.0.2560.1440/56.23.2504.1417@56.23.2504.1417" timestamp="1603618055574" />
+    <state width="1263" height="686" key="GridCell.Tab.0.center/2560.0.2560.1440/62.23.2498.1417@62.23.2498.1417" timestamp="1603177555871" />
+    <state width="1262" height="367" key="GridCell.Tab.0.left" timestamp="1603618055574">
+      <screen x="56" y="23" width="2504" height="1417" />
+    </state>
+    <state width="2188" height="325" key="GridCell.Tab.0.left/2560.0.2560.1440/54.23.2506.1417@2560.0.2560.1440" timestamp="1602617904236" />
+    <state width="1263" height="271" key="GridCell.Tab.0.left/2560.0.2560.1440/54.23.2506.1417@54.23.2506.1417" timestamp="1602865005106" />
+    <state width="2188" height="325" key="GridCell.Tab.0.left/2560.0.2560.1440/56.23.2504.1417@2560.0.2560.1440" timestamp="1602570597462" />
+    <state width="1262" height="367" key="GridCell.Tab.0.left/2560.0.2560.1440/56.23.2504.1417@56.23.2504.1417" timestamp="1603618055574" />
+    <state width="1263" height="686" key="GridCell.Tab.0.left/2560.0.2560.1440/62.23.2498.1417@62.23.2498.1417" timestamp="1603177555870" />
+    <state width="1262" height="367" key="GridCell.Tab.0.right" timestamp="1603618055574">
+      <screen x="56" y="23" width="2504" height="1417" />
+    </state>
+    <state width="2188" height="325" key="GridCell.Tab.0.right/2560.0.2560.1440/54.23.2506.1417@2560.0.2560.1440" timestamp="1602617904237" />
+    <state width="1263" height="271" key="GridCell.Tab.0.right/2560.0.2560.1440/54.23.2506.1417@54.23.2506.1417" timestamp="1602865005107" />
+    <state width="2188" height="325" key="GridCell.Tab.0.right/2560.0.2560.1440/56.23.2504.1417@2560.0.2560.1440" timestamp="1602570597462" />
+    <state width="1262" height="367" key="GridCell.Tab.0.right/2560.0.2560.1440/56.23.2504.1417@56.23.2504.1417" timestamp="1603618055574" />
+    <state width="1263" height="686" key="GridCell.Tab.0.right/2560.0.2560.1440/62.23.2498.1417@62.23.2498.1417" timestamp="1603177555873" />
+    <state x="2760" y="274" key="SettingsEditor" timestamp="1604142350457">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2560" y="251" key="SettingsEditor/2560.0.2560.1440/54.23.2506.1417@2560.0.2560.1440" timestamp="1602617708480" />
+    <state x="192" y="274" key="SettingsEditor/2560.0.2560.1440/54.23.2506.1417@54.23.2506.1417" timestamp="1602866059662" />
+    <state x="2760" y="274" key="SettingsEditor/2560.0.2560.1440/62.23.2498.1417@2560.0.2560.1440" timestamp="1604142350457" />
+    <state x="2913" y="498" width="323" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1602529152724">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2913" y="498" width="323" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/2560.0.2560.1440/56.23.2504.1417@2560.0.2560.1440" timestamp="1602529152724" />
+    <state x="2610" y="287" key="com.intellij.database.dbimport.ImportDialog" timestamp="1602573148285">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2610" y="287" key="com.intellij.database.dbimport.ImportDialog/2560.0.2560.1440/54.23.2506.1417@2560.0.2560.1440" timestamp="1602573148285" />
+    <state x="295" y="457" width="428" height="310" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1602620545117">
+      <screen x="54" y="23" width="2506" height="1417" />
+    </state>
+    <state x="2806" y="441" width="432" height="319" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/2560.0.2560.1440/54.23.2506.1417@2560.0.2560.1440" timestamp="1602572751440" />
+    <state x="295" y="457" width="428" height="310" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/2560.0.2560.1440/54.23.2506.1417@54.23.2506.1417" timestamp="1602620545117" />
+    <state x="1226" y="453" width="670" height="676" key="search.everywhere.popup" timestamp="1602744743190">
+      <screen x="54" y="23" width="2506" height="1417" />
+    </state>
+    <state x="1226" y="453" width="670" height="676" key="search.everywhere.popup/2560.0.2560.1440/54.23.2506.1417@54.23.2506.1417" timestamp="1602744743190" />
+  </component>
+</project>
